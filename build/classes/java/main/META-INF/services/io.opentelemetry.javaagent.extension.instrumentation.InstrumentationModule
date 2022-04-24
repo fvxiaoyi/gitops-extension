@@ -1,0 +1,2 @@
+com.gitops.javaagent.instrumentation.DispatcherServletInstrumentationModule
+com.gitops.javaagent.instrumentation.ErrorCodeServlet3InstrumentationModule
